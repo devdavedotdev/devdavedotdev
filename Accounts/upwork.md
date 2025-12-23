@@ -16,6 +16,7 @@ Core technical strengths:
 - React (hooks, advanced state patterns, monorepos)
 - TypeScript & JavaScript
 - UI systems: Tailwind CSS, Storybook, custom component libraries
+- Backend: Convex
 - Build & tooling: Vite, Webpack, Node scripting
 - Testing: Jest, Vitest
 - CI/CD: GitHub Actions, project scaffolding, deployments
