@@ -1,49 +1,75 @@
 # Hello! :octocat:
-## Welcome to my Repository
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavedotdev&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavedotdev&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)
 
-## 👋 Hi, I'm David — an Experienced Frontend Engineer
+## 👋 Hi, I'm David — Frontend Product Engineer (React, TypeScript)
 
-I'm a result-driven front-end developer with 5+ years of professional experience crafting intuitive, scalable, and maintainable web applications. I specialize in building robust user interfaces with **React**, **TypeScript**, and **modular architecture**, often working across the full software lifecycle—from **technical specs** to **production-ready deployments**.
+I'm a Frontend Product Engineer with 5+ years of professional experience building and maintaining user-facing web applications in production environments. I work primarily with React-based stacks and focus on shipping reliable, scalable frontend features that support real business and user needs.
 
-### 🚀 What I Do Best
+I've spent several years contributing to long-running products, working within mature codebases, and translating product requirements into clean, maintainable frontend solutions. My work typically involves owning features end-to-end on the frontend, improving UI systems, handling complex state and edge cases, and collaborating closely with product and design teams.
 
-- Architect **component libraries** and frontend systems for scalable apps
-- Bridge **product goals** with **clean, maintainable code**
-- Build tools and UI logic that feel intuitive, performant, and reliable
-- Shape **internal developer experience** through tooling and sane abstraction
-- Drive frontend structure in monorepos, modular systems, and cross-functional teams
+I'm comfortable working independently, value clarity in communication, and take responsibility for the quality and longevity of the code I ship.
 
 ---
 
-### 🧠 Engineering Philosophy
+## 🚀 What I Do
 
-💡 **Build with clarity** – Code should be easy to reason about, modify, and extend
-🧭 **Plan as an architect** – Define intent and structure implementation and execution
-🔧 **Know your tools** – Deep understanding of frameworks and packages you rely on
-🤝 **Collaborate deeply** – Align tech with business needs, user impact, and product goals
-
----
-
-### 🧰 Tech & Tools I Often Use
-
-| Stack Area         | Tools / Libraries |
-|--------------------|------------------|
-| Frontend libary    | React |
-| FrameWorks         | Next, Remix, tanstack Start |
-| Language & Types   | TypeScript, JavaScript |
-| Styling            | CSS, Tailwind css, SASS, Styled Components |
-| Routing            | React Router,Tanstack Router |
-| State Management   | Zustand, useContext, React Query (server sync) |
-| Infra              | Clouflare, Netlify |
-| Testing            | Jest, Vitest |
-| UI Collaboration   | Figma |
+- **Own frontend features end-to-end** within large production systems
+- **Build and maintain internal UI libraries** and component systems
+- **Deliver user-facing functionality** used across multiple regions
+- **Improve developer experience** through tooling, standards, and documentation
+- **Collaborate cross-functionally** with product, design, and backend teams
 
 ---
 
-### 🔍 A Few Extras
+## 💼 Recent Work
 
-- I've built internal tools for shift scheduling, payments, dashboards, and chats in a medical staffing platform
-- I write clear specs and documentation for both developers and users alike use
-- I enjoy team work, boost team productivity
+For the past several years, I've contributed to the long-term development of a medical staffing platform operating across South Africa and the UK, with ongoing expansion into the US market. My work includes:
+
+- Owned and shipped frontend features for shift scheduling, payments, dashboards, and chat systems
+- Built reusable UI systems and internal component libraries to support long-term product development
+- Maintained and extended a large React codebase with focus on performance, UX states, and maintainability
+- Contributed to setting frontend standards, writing technical specs, and improving team workflows
+
+---
+
+## 🧰 Technical Stack
+
+**Frontend Framework & Language**
+- React (hooks, advanced state patterns, monorepos)
+- TypeScript, JavaScript
+
+**UI Systems**
+- Tailwind CSS, Storybook, custom component libraries
+- CSS, SASS, Styled Components
+
+**Frameworks & Routing**
+- Next.js, Remix, TanStack Start
+- React Router, TanStack Router
+
+**State Management**
+- Zustand, React Context
+- React Query (server state)
+
+**Build & Tooling**
+- Vite, Webpack, Node scripting
+- Git, pnpm, npm, yarn
+- Monorepos, CI/CD pipelines
+
+**Testing**
+- Jest, Vitest
+
+**Infrastructure**
+- Cloudflare, Netlify
+
+**Collaboration**
+- Figma
+
+---
+
+## 🧠 Engineering Approach
+
+- **Build with clarity** – Code should be easy to reason about, modify, and extend
+- **Own features end-to-end** – From implementation to long-term maintainability
+- **Product-focused** – Align technical decisions with business needs and user impact
+- **Work within systems** – Comfortable in mature codebases and existing architectures
