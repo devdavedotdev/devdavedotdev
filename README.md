@@ -61,6 +61,7 @@ For the past several years, I've contributed to the long-term development of a m
 
 **Backend**
 - Convex
+- Supabase
 
 **Infrastructure**
 - Cloudflare, Netlify
