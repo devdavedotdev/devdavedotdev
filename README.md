@@ -70,6 +70,15 @@ For the past several years, I've contributed to the long-term development of a m
 
 ---
 
+## 🌐 Featured Projects — [devdave.dev](https://devdave.dev)
+
+Check out my portfolio for interactive demos and technical deep-dives
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-devdave.dev-3382ed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devdave.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidolufemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidolufemi/)
+[![X](https://img.shields.io/badge/X-@devdavedotdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devdavedotdev)
+---
+
 ## 🧠 Engineering Approach
 
 - **Build with clarity** – Code should be easy to reason about, modify, and extend
