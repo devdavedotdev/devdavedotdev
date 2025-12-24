@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavedotdev&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)
 
-## 👋 Hi, I'm David — Frontend Product Engineer (React, TypeScript)
+## 👋 Hi, I'm David, Frontend Product Engineer (React, TypeScript)
 
 I'm a Frontend Product Engineer with 5+ years of professional experience building and maintaining user-facing web applications in production environments. I work primarily with React-based stacks and focus on shipping reliable, scalable frontend features that support real business and user needs.
 
