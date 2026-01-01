@@ -1,24 +1,24 @@
 # Hello! :octocat:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdavedotdev&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en)
 
-## 👋 Hi, I'm David, Frontend Product Engineer (React, TypeScript)
+## 👋 Hi, I'm David, Web & AI Product Engineer (React, TypeScript)
 
-I'm a Frontend Product Engineer with 5+ years of professional experience building and maintaining user-facing web applications in production environments. I work primarily with React-based stacks and focus on shipping reliable, scalable frontend features that support real business and user needs.
+I'm a Web & AI Product Engineer with 5+ years of professional experience building web applications and AI-powered products in production environments.
 
-I've spent several years contributing to long-running products, working within mature codebases, and translating product requirements into clean, maintainable frontend solutions. My work typically involves owning features end-to-end on the frontend, improving UI systems, handling complex state and edge cases, and collaborating closely with product and design teams.
+I build AI systems: multi-provider chat platforms supporting multiple models from various providers, vision/multimodal applications, and image generation tools (DALL-E 3, Flux). I've shipped streaming chat interfaces, provider abstraction layers, and cost-optimized AI workflows using Vercel AI SDK and OpenRouter.
 
-I'm comfortable working independently, value clarity in communication, and take responsibility for the quality and longevity of the code I ship.
+I've spent several years contributing to long-running products, working within mature codebases, and translating product requirements into clean, maintainable solutions. I'm comfortable working independently and take responsibility for the quality of my code.
 
 ---
 
 ## 🚀 What I Do
 
-- **Own frontend features end-to-end** within large production systems
+- **Build AI-powered products**: multi-provider chat, vision apps, image generation
+
+- **Own features end-to-end** within large production systems
 - **Build and maintain internal UI libraries** and component systems
 - **Deliver user-facing functionality** used across multiple regions
 - **Improve developer experience** through tooling, standards, and documentation
-- **Collaborate cross-functionally** with product, design, and backend teams
 
 ---
 
@@ -34,6 +34,12 @@ For the past several years, I've contributed to the long-term development of a m
 ---
 
 ## 🧰 Technical Stack
+
+**AI Development**
+- Vercel AI SDK, OpenRouter, AI Gateway
+- OpenAI (GPT-4o, DALL-E 3), Anthropic (Claude), Google (Gemini)
+- Open-source: Llama, DeepSeek, Qwen, Mistral
+- Streaming responses, provider abstraction, multi-model chat
 
 **Frontend Framework & Language**
 - React (hooks, advanced state patterns, monorepos)
@@ -59,9 +65,11 @@ For the past several years, I've contributed to the long-term development of a m
 **Testing**
 - Jest, Vitest
 
-**Backend**
+**Databases**
 - Convex
 - Supabase
+- Postgres
+- Neon
 
 **Infrastructure**
 - Cloudflare, Netlify
@@ -84,5 +92,6 @@ Check out my portfolio for interactive demos and technical deep-dives
 
 - **Build with clarity** – Code should be easy to reason about, modify, and extend
 - **Own features end-to-end** – From implementation to long-term maintainability
+- **AI-first thinking** – Integrate AI capabilities where they add real value
 - **Product-focused** – Align technical decisions with business needs and user impact
 - **Work within systems** – Comfortable in mature codebases and existing architectures
